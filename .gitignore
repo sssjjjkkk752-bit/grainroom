@@ -1,0 +1,16 @@
+.DS_Store
+build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+NativeEngine/target/
+Build/
+Tests/__pycache__/
+# Native binaries belong in downloadable release archives, not source commits.
+Frameworks/*.xcframework/
+Tests/Reports/*.log
+*.xcarchive/
+*.ipa
+*.p12
+*.mobileprovision
+AuthKey_*.p8

@@ -1,0 +1,195 @@
+{
+  "results": [
+    {
+      "film": "fujifilm_c200",
+      "paper": "fujifilm_crystal_archive_typeii",
+      "scan_film": false,
+      "passed": true,
+      "seconds": 0.105
+    },
+    {
+      "film": "fujifilm_pro_400h",
+      "paper": "fujifilm_crystal_archive_typeii",
+      "scan_film": false,
+      "passed": true,
+      "seconds": 0.019
+    },
+    {
+      "film": "fujifilm_provia_100f",
+      "paper": "kodak_portra_endura",
+      "scan_film": true,
+      "passed": true,
+      "seconds": 0.018
+    },
+    {
+      "film": "fujifilm_velvia_100",
+      "paper": "kodak_portra_endura",
+      "scan_film": true,
+      "passed": true,
+      "seconds": 0.018
+    },
+    {
+      "film": "fujifilm_xtra_400",
+      "paper": "fujifilm_crystal_archive_typeii",
+      "scan_film": false,
+      "passed": true,
+      "seconds": 0.019
+    },
+    {
+      "film": "kodak_doublex",
+      "paper": "kodak_2302",
+      "scan_film": false,
+      "passed": true,
+      "seconds": 0.019
+    },
+    {
+      "film": "kodak_ektachrome_100",
+      "paper": "kodak_portra_endura",
+      "scan_film": true,
+      "passed": true,
+      "seconds": 0.018
+    },
+    {
+      "film": "kodak_ektar_100",
+      "paper": "kodak_portra_endura",
+      "scan_film": false,
+      "passed": true,
+      "seconds": 0.02
+    },
+    {
+      "film": "kodak_gold_200",
+      "paper": "kodak_portra_endura",
+      "scan_film": false,
+      "passed": true,
+      "seconds": 0.019
+    },
+    {
+      "film": "kodak_kodachrome_64",
+      "paper": "kodak_portra_endura",
+      "scan_film": true,
+      "passed": true,
+      "seconds": 0.019
+    },
+    {
+      "film": "kodak_portra_160",
+      "paper": "kodak_portra_endura",
+      "scan_film": false,
+      "passed": true,
+      "seconds": 0.018
+    },
+    {
+      "film": "kodak_portra_400",
+      "paper": "kodak_portra_endura",
+      "scan_film": false,
+      "passed": true,
+      "seconds": 0.018
+    },
+    {
+      "film": "kodak_portra_800",
+      "paper": "kodak_portra_endura",
+      "scan_film": false,
+      "passed": true,
+      "seconds": 0.019
+    },
+    {
+      "film": "kodak_portra_800_push1",
+      "paper": "kodak_portra_endura",
+      "scan_film": false,
+      "passed": true,
+      "seconds": 0.019
+    },
+    {
+      "film": "kodak_portra_800_push2",
+      "paper": "kodak_portra_endura",
+      "scan_film": false,
+      "passed": true,
+      "seconds": 0.018
+    },
+    {
+      "film": "kodak_trix",
+      "paper": "kodak_2302",
+      "scan_film": true,
+      "passed": true,
+      "seconds": 0.018
+    },
+    {
+      "film": "kodak_ultramax_400",
+      "paper": "kodak_portra_endura",
+      "scan_film": false,
+      "passed": true,
+      "seconds": 0.019
+    },
+    {
+      "film": "kodak_verita_200d",
+      "paper": "kodak_2383",
+      "scan_film": false,
+      "passed": true,
+      "seconds": 0.019
+    },
+    {
+      "film": "kodak_vision3_200t",
+      "paper": "kodak_2383",
+      "scan_film": false,
+      "passed": true,
+      "seconds": 0.018
+    },
+    {
+      "film": "kodak_vision3_250d",
+      "paper": "kodak_2383",
+      "scan_film": false,
+      "passed": true,
+      "seconds": 0.018
+    },
+    {
+      "film": "kodak_vision3_500t",
+      "paper": "kodak_2383",
+      "scan_film": false,
+      "passed": true,
+      "seconds": 0.018
+    },
+    {
+      "film": "kodak_vision3_50d",
+      "paper": "kodak_2383",
+      "scan_film": false,
+      "passed": true,
+      "seconds": 0.018
+    },
+    {
+      "print": "fujifilm_crystal_archive_typeii",
+      "passed": true
+    },
+    {
+      "print": "kodak_2302",
+      "passed": true
+    },
+    {
+      "print": "kodak_2383",
+      "passed": true
+    },
+    {
+      "print": "kodak_2393",
+      "passed": true
+    },
+    {
+      "print": "kodak_ektacolor_edge",
+      "passed": true
+    },
+    {
+      "print": "kodak_endura_premier",
+      "passed": true
+    },
+    {
+      "print": "kodak_portra_endura",
+      "passed": true
+    },
+    {
+      "print": "kodak_supra_endura",
+      "passed": true
+    },
+    {
+      "print": "kodak_ultra_endura",
+      "passed": true
+    }
+  ],
+  "passed": true
+}

@@ -1,0 +1,18 @@
+{
+  "hardware": "host Mac; not an iPhone benchmark",
+  "results": [
+    {
+      "width": 768,
+      "height": 512,
+      "seconds": 0.8,
+      "finite": true
+    },
+    {
+      "width": 2048,
+      "height": 1365,
+      "seconds": 6.398,
+      "finite": true
+    }
+  ],
+  "scope": "Earlier single-buffer CPU microbenchmark, not a 48MP tiled export benchmark"
+}

@@ -1,0 +1,8 @@
+module GrainroomSpectral {
+    header "grainroom_spectral.h"
+    export *
+    link "grainroom_spectral"
+    link framework "Accelerate"
+    link framework "Security"
+    link framework "SystemConfiguration"
+}
